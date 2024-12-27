@@ -1,0 +1,1 @@
+This repository showcases a common error related to the post-increment operator in C. The file 'bug.c' contains code that produces an unexpected output due to a misunderstanding of how the post-increment operator works in conjunction with printf. The 'bugSolution.c' file offers a corrected version that clarifies the behavior and demonstrates how to achieve the intended output.
